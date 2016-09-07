@@ -10,6 +10,6 @@ I can mouse over a plot to see a tooltip with additional details.
 
 ### Demo:
 
-Github.io : https://github.io/sajibhaskaran/Scatterplot
+Github.io : https://sajibhaskaran.github.io/Scatterplot
 
 CodePen.io: http://codepen.io/sajman/pen/vKJAEW.
